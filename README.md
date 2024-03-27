@@ -1,6 +1,6 @@
 # Outputs --:
 
-### CRUD operation on Hibernate -:
+### CRUD operation on Hibernate (hibernateLearn folder) -:
 ![hibernateLearn](https://github.com/vishal-kumar-sahu/hibernate_assign/assets/162359423/8115982a-7c16-46bf-94a0-464bc5038761)
 
 ### One-to-one mapping -:
